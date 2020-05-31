@@ -19,4 +19,5 @@ If a Yara file does not ends with this extension, you can go to **Language** men
 3. Import the UDL file for the language you want to add to Notepad++
 
 4. Reopen Notepad++
-5. The language will be add to Language menu
+5. Open files with the corresponding extensions or choose the language from **Language** menu
+
