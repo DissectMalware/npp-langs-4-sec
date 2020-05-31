@@ -10,6 +10,16 @@ If a Yara file does not ends with this extension, you can go to **Language** men
 
 ![Example-Yara](https://raw.githubusercontent.com/DissectMalware/npp-langs-4-sec/master/images/Example.PNG)
 
+# XLM Language
+[xlm-byDissectMalware.xml](https://github.com/DissectMalware/npp-langs-4-sec/blob/master/xlm-byDissectMalware.xml) is a Notepad++ UDL file, defining syntax highlighting for XLM macros, a.k.a Excel 4.0 macros.
+
+Files with .xlm extension will be automatically highlighted based on this UDL file.
+
+If a XLM file does not ends with this extension, you can go to **Language** menu and select XLM from the submenu.
+
+![Example-XLM](https://raw.githubusercontent.com/DissectMalware/npp-langs-4-sec/master/images/Example-XLM.PNG)
+
+
 # How to Install
 1. Open Notepad++
 2. Go to Language -> User Defined Language -> Define your language...
